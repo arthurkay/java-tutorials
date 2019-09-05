@@ -1,6 +1,6 @@
 # Java Tutorials
 
-**Note** *The assumption is that you have installed botH the Java SDK and JRE*
+**Note** *The assumption is that you have installed both the Java SDK and JRE*
 
 ## Question
 >Write an application that calculates the product of the odd integers from 1 to n, where n is entered by the user.
