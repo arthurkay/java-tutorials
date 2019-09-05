@@ -10,7 +10,7 @@ class oddNumbers {
                 for (int i = 1; i <= n; i++) {
     
                    if ( (i%2) != 0) {
-                       //Multiply on the odd numbers
+                       // Multiply on the odd numbers
                         product = product * i;
                    }
                 }
