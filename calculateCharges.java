@@ -28,7 +28,7 @@ class calculateCharges {
                 }
             }
             catch (NumberFormatException err) {
-                System.out.println("This programme only accepts numerical parameters \n" +err.getMessage());
+                System.out.println("This programme only accepts numerical parameters \nError: " +err.getMessage());
             }
         }
         else {
